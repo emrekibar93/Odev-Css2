@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+}
+
+.logo {
+    margin: auto;
+    width: 351px;
+    height: 113px;
+}
+
+.search {
+    background-color: whitesmoke;
+    width: 100%;
+    margin: auto;
+}
+
+.search p {
+    position: relative;
+    margin: auto;
+    text-align: center;
+}
+
+.search input {
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+.alt{
+    margin-top: 2px;
+    display: flex;
+}
+
+.alt-sol {
+    margin-right: 2px;
+    display: block;
+    background-color: aquamarine;
+    width: 40%;
+    height: 80px;
+}
+.alt-orta {
+    margin-right: 2px;
+    display: block;
+    background-color: #56d4cc;
+    width: 20%;
+    height: 80px;
+}
+.alt-sag {
+
+    display: block;
+    background-color: #1a968e;
+    width: 40%;
+    height: 80px;
+}
+.main p {
+    font-weight: 14px;
+    padding: 0;
+    margin: 0;
+}
